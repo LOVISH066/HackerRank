@@ -1,1 +1,1 @@
-# HackerRank Questions
+# HackerRank Questions of SQL, Python, DSA
